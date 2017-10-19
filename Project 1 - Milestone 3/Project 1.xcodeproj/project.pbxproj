@@ -13,12 +13,12 @@
 		E40BEECF1F95A5B000E0CDE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E40BEECE1F95A5B000E0CDE1 /* Assets.xcassets */; };
 		E40BEED21F95A5B000E0CDE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E40BEED01F95A5B000E0CDE1 /* LaunchScreen.storyboard */; };
 		E40BEEDD1F95A5B000E0CDE1 /* Project_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40BEEDC1F95A5B000E0CDE1 /* Project_1UITests.swift */; };
-		E40BEF141F95E15E00E0CDE1 /* Temple.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E40BEF131F95E15E00E0CDE1 /* Temple.mp3 */; };
-		E40BEF171F95E2F200E0CDE1 /* Levels.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E40BEF151F95E2F200E0CDE1 /* Levels.mp3 */; };
-		E40BEF181F95E2F200E0CDE1 /* Things.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E40BEF161F95E2F200E0CDE1 /* Things.mp3 */; };
 		E40BEF1B1F95FD8600E0CDE1 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E40BEF1A1F95FD8600E0CDE1 /* AVFoundation.framework */; };
-		E495A4CD1F965768001F3A5F /* Ghost.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E495A4CB1F965768001F3A5F /* Ghost.mp3 */; };
-		E495A4CE1F965768001F3A5F /* Vision.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E495A4CC1F965768001F3A5F /* Vision.mp3 */; };
+		E4E215CC1F984CFE00370102 /* Ghost.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E4E215C71F984CFE00370102 /* Ghost.mp3 */; };
+		E4E215CD1F984CFE00370102 /* Levels.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E4E215C81F984CFE00370102 /* Levels.mp3 */; };
+		E4E215CE1F984CFE00370102 /* Temple.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E4E215C91F984CFE00370102 /* Temple.mp3 */; };
+		E4E215CF1F984CFE00370102 /* Things.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E4E215CA1F984CFE00370102 /* Things.mp3 */; };
+		E4E215D01F984CFE00370102 /* Vision.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E4E215CB1F984CFE00370102 /* Vision.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,12 +42,12 @@
 		E40BEED81F95A5B000E0CDE1 /* Project 1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Project 1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E40BEEDC1F95A5B000E0CDE1 /* Project_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_1UITests.swift; sourceTree = "<group>"; };
 		E40BEEDE1F95A5B000E0CDE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E40BEF131F95E15E00E0CDE1 /* Temple.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Temple.mp3; path = ../../../../../Downloads/Temple.mp3; sourceTree = "<group>"; };
-		E40BEF151F95E2F200E0CDE1 /* Levels.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Levels.mp3; path = ../../../../../Downloads/Levels.mp3; sourceTree = "<group>"; };
-		E40BEF161F95E2F200E0CDE1 /* Things.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Things.mp3; path = ../../../../../Downloads/Things.mp3; sourceTree = "<group>"; };
 		E40BEF1A1F95FD8600E0CDE1 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
-		E495A4CB1F965768001F3A5F /* Ghost.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Ghost.mp3; path = ../../../../../Downloads/Ghost.mp3; sourceTree = "<group>"; };
-		E495A4CC1F965768001F3A5F /* Vision.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Vision.mp3; path = ../../../../../Downloads/Vision.mp3; sourceTree = "<group>"; };
+		E4E215C71F984CFE00370102 /* Ghost.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Ghost.mp3; path = Assets.xcassets/Ghost.mp3; sourceTree = "<group>"; };
+		E4E215C81F984CFE00370102 /* Levels.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Levels.mp3; path = Assets.xcassets/Levels.mp3; sourceTree = "<group>"; };
+		E4E215C91F984CFE00370102 /* Temple.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Temple.mp3; path = Assets.xcassets/Temple.mp3; sourceTree = "<group>"; };
+		E4E215CA1F984CFE00370102 /* Things.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Things.mp3; path = Assets.xcassets/Things.mp3; sourceTree = "<group>"; };
+		E4E215CB1F984CFE00370102 /* Vision.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Vision.mp3; path = Assets.xcassets/Vision.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,12 +95,12 @@
 				E40BEEC91F95A5B000E0CDE1 /* ViewController.swift */,
 				E40BEECB1F95A5B000E0CDE1 /* Main.storyboard */,
 				E40BEECE1F95A5B000E0CDE1 /* Assets.xcassets */,
-				E40BEF131F95E15E00E0CDE1 /* Temple.mp3 */,
-				E40BEF151F95E2F200E0CDE1 /* Levels.mp3 */,
-				E40BEF161F95E2F200E0CDE1 /* Things.mp3 */,
-				E495A4CB1F965768001F3A5F /* Ghost.mp3 */,
-				E495A4CC1F965768001F3A5F /* Vision.mp3 */,
 				E40BEED01F95A5B000E0CDE1 /* LaunchScreen.storyboard */,
+				E4E215C71F984CFE00370102 /* Ghost.mp3 */,
+				E4E215C81F984CFE00370102 /* Levels.mp3 */,
+				E4E215C91F984CFE00370102 /* Temple.mp3 */,
+				E4E215CA1F984CFE00370102 /* Things.mp3 */,
+				E4E215CB1F984CFE00370102 /* Vision.mp3 */,
 				E40BEED31F95A5B000E0CDE1 /* Info.plist */,
 			);
 			path = "Project 1";
@@ -206,14 +206,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4E215D01F984CFE00370102 /* Vision.mp3 in Resources */,
+				E4E215CC1F984CFE00370102 /* Ghost.mp3 in Resources */,
+				E4E215CE1F984CFE00370102 /* Temple.mp3 in Resources */,
+				E4E215CF1F984CFE00370102 /* Things.mp3 in Resources */,
 				E40BEED21F95A5B000E0CDE1 /* LaunchScreen.storyboard in Resources */,
-				E495A4CD1F965768001F3A5F /* Ghost.mp3 in Resources */,
 				E40BEECF1F95A5B000E0CDE1 /* Assets.xcassets in Resources */,
-				E40BEF181F95E2F200E0CDE1 /* Things.mp3 in Resources */,
-				E40BEF141F95E15E00E0CDE1 /* Temple.mp3 in Resources */,
-				E495A4CE1F965768001F3A5F /* Vision.mp3 in Resources */,
-				E40BEF171F95E2F200E0CDE1 /* Levels.mp3 in Resources */,
 				E40BEECD1F95A5B000E0CDE1 /* Main.storyboard in Resources */,
+				E4E215CD1F984CFE00370102 /* Levels.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
